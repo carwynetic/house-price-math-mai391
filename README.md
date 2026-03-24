@@ -16,7 +16,7 @@ Dự án lập trình trực tiếp các công thức toán học sau thành mã
 
 ### 1. Principal Component Analysis (PCA)
 * **Ma trận Hiệp phương sai (Covariance Matrix):** $$S = \frac{1}{N} \mathbf{X}^T \mathbf{X}$$
-  *(trong đó**X** là ma trận dữ liệu đã được chuẩn hóa mean-centered)*
+  *(trong đó **X** là ma trận dữ liệu đã được chuẩn hóa mean-centered)*
 
 * **Phân tích Trị riêng (Eigendecomposition):** Tìm Trị riêng $\lambda$ và Vector riêng $\mathbf{v}$ từ phương trình:
   $$S \mathbf{v} = \lambda \mathbf{v}$$
