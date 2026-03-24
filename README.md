@@ -42,7 +42,4 @@ house-price-math-mai391/
 ├── notebooks/
 │   └── Linear_Regression.ipynb   # Mã nguồn chính (Cài đặt thuật toán bằng Numpy)
 │
-├── presentation/
-│   └── Slide_MAI391.pptx         # Slide thuyết trình bảo vệ đồ án
-│
 └── README.md                     # Tài liệu mô tả dự án
